@@ -77,6 +77,11 @@ BloodBridge follows a **3-tier architecture**:
 - Standard IDE for Java Enterprise development  
 
 ---
+## Contributors
+- S Laya Yadav
+- Maria Taniya
+- Ashvika Verma
+---
 
 ## Output
 <img width="906" height="344" alt="image" src="https://github.com/user-attachments/assets/dc51b8d1-507e-4e86-9bd7-34feea0d60be" />
